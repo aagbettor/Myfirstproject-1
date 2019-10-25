@@ -1,0 +1,10 @@
+### Basic git commands
+
+Prerequisite :
+
+clone the repository <url>
+command :  git clone <repository url>
+make sure you cd into the repo folder
+  1. git add <file/folder name>  git add . (add all)
+  2. git commit -m "comment message"
+  3. git push origin <branch> or  git push
